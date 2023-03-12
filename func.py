@@ -6,3 +6,5 @@ def sum():
     print(a + b)
 
 
+def raz():
+    print(a - b)
